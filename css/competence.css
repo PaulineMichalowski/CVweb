@@ -33,9 +33,6 @@ img#bottomright {
   font-size: 40px;
   font-weight: bold;
 }
-{
-  height: 945px;
-}
 header {
   width: 100%;
   float: left;
@@ -54,11 +51,18 @@ h4 {
   font-size: 25px;
   margin-left: 40px;
 }
+h5 {
+  color: #3e0607;
+  line-height: 200%;
+  font-size: 20px;
+  margin-left: 50px;
+}
 .proverb {
   margin-left: 140px;
   color: white;
 }
 .photocv {
+  margin-left: 15px;
   float: left;
   border-radius: 30px;
   box-shadow: 6px 6px 6px #3e0607;
@@ -68,21 +72,28 @@ h4 {
 }
 .colomn1 {
   color: white;
-  margin-left: 500px;
+  margin-left: 250px;
   float: left;
-  line-height: 300%;
+  line-height: 150%;
 }
 .colomn2 {
   color: white;
   float: right;
-  margin-right: 500px;
-  line-height: 300%;
+  margin-right: 800px;
+  line-height: 150%;
+}
+.colomn3 {
+  color: white;
+  float: right;
+  line-height: 150%;
+  margin-right: 190px;
 }
 ::-moz-progress-bar {
   background-color: #3e0613;
 }
 progress {
   background-color: #98a5b4;
+  display:flow-root;
 }
 .contact {
   position: absolute;

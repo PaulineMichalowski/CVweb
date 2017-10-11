@@ -51,11 +51,18 @@ h4 {
   font-size: 25px;
   margin-left: 40px;
 }
+h5 {
+  color: #3e0607;
+  line-height: 200%;
+  font-size: 20px;
+  margin-left: 50px;
+}
 .proverb {
   margin-left: 140px;
   color: white;
 }
 .photocv {
+  margin-left: 15px;
   float: left;
   border-radius: 30px;
   box-shadow: 6px 6px 6px #3e0607;
