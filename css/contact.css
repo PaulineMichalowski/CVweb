@@ -50,3 +50,40 @@ header {
 .photocv:hover {
   box-shadow: 10px 10px 10px #3e0607;
 }
+h2 {
+  color: #3e0607;
+  font-size: 35px;
+  line-height: 250%;
+}
+.contactSpeech {
+  color: white;
+  line-height: 150%;
+  margin-left: 100px;
+  text-align: justify;
+  margin-right: 20px;
+}
+.Bye {
+  text-align: center;
+  color: white;
+  line-height: 150%;
+}
+.GithubIcon {
+  position: absolute;
+  right: 800px;
+  bottom: 400px;
+}
+.LinkedinIcon {
+  position: absolute;
+  right: 900px;
+  bottom: 400px;
+}
+.MailIcon {
+  position: absolute;
+  right: 1000px;
+  bottom: 400px;
+}
+.PhoneIcon {
+  position: absolute;
+  right: 1100px;
+  bottom: 400px;
+}
